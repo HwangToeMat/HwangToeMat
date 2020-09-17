@@ -1,8 +1,8 @@
-### 기본기가 탄탄한 AI개발자가 되기위해 성장하고 있습니다. 
+### 기본기가 탄탄한 AI개발자가 되기위해 끊임없이 노력하고 있습니다.&#128640;
 
-### 
+저는 **컴퓨터 비전**과 **인공지능**에 관심이 있고, 이를 통해 **세상을 더 편안하게** 바꿀 수 있는 개발자고 되고 싶습니다.
 
-<span style="color:red">컴퓨터 비전</span>과 인공지능에 관심이 있고, 이를 통해 세상을 더 편안하게 바꾸고 싶습니다.
-
-✉️ xoghsms794280@gmail.com  
-🔗 https://hwangtoemat.github.io/
+&#128231; E-mail : xoghsms794280@gmail.com  
+&#128035; Blog : https://hwangtoemat.github.io/
+&#128036; Project : https://hwangtoemat.github.io/ai-project/
+&#128037; Paper-Review : https://hwangtoemat.github.io/paper-review/
