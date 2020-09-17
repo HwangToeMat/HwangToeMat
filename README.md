@@ -6,5 +6,5 @@
 
 <details>
 <summary>&#128048;  CV</summary>
-  <img src="https://github.com/HwangToeMat/HwangToeMat.github.io/blob/master/CV.jpg?raw=true" style="max-width:100%;margin-left: auto; margin-right: auto; display: block;">
+  <img src="https://github.com/HwangToeMat/HwangToeMat.github.io/blob/master/CV.png?raw=true" style="max-width:100%;margin-left: auto; margin-right: auto; display: block;">
 </details>
