@@ -5,6 +5,6 @@
 &#128231; E-mail : xoghsms794280@gmail.com &nbsp;&nbsp;&nbsp; &#128035; [Blog](https://hwangtoemat.github.io/)  &nbsp;&nbsp;&nbsp; &#128036; [Project](https://hwangtoemat.github.io/ai-project/) &nbsp;&nbsp;&nbsp; &#128037; [Paper-Review](https://hwangtoemat.github.io/paper-review/)
 
 <details>
-<summary>CV</summary>
+<summary>&#128048;&nbsp;&nbsp;&nbsp;CV</summary>
   <img src="https://github.com/HwangToeMat/HwangToeMat.github.io/blob/master/CV.jpg?raw=true" style="max-width:100%;margin-left: auto; margin-right: auto; display: block;">
 </details>
