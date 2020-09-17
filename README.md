@@ -4,8 +4,4 @@
 
 &#128231; E-mail : xoghsms794280@gmail.com  
 
-&#128035; Blog : https://hwangtoemat.github.io/
-
-&#128036; Project : https://hwangtoemat.github.io/ai-project/
-
-&#128037; Paper-Review : https://hwangtoemat.github.io/paper-review/
+&#128035; [Blog](https://hwangtoemat.github.io/)  &nbsp;&nbsp;&nbsp; &#128036; [Project](https://hwangtoemat.github.io/ai-project/) &nbsp;&nbsp;&nbsp; &#128037; [Paper-Review](https://hwangtoemat.github.io/paper-review/)
